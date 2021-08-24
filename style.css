@@ -1,0 +1,147 @@
+.hader{
+    background: #101446;
+}
+.logo{}
+.logo img{
+    width: 90px;
+    padding: 15px 0;
+}
+.menu{
+    text-align: right;
+}
+.menu ul{}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 0 15px;
+    display: inline-block;
+    line-height: 70px;
+}
+
+/* baner */
+
+.baner{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(./Image/intro-bg.jpg);
+    background-size: cover;
+    background-position: bottom;
+    /* background-attachment: fixed; */
+    background-color: #000;
+    padding-top: 150px;
+}
+.prodect{
+    text-align: center;
+    width: 900px;
+    margin:100px auto;
+}
+.prodect h2{
+    color: #fff;
+    margin-bottom: 30px;
+}
+.prodect p{
+    color: #fff;
+}
+.button{
+    margin-top: 30px;
+}
+
+/* teem */
+
+.teem{
+    background-color: #bac1f3;
+    padding: 120px 0;
+}
+.teemh{
+    /* margin-top: 100px; */
+    margin-bottom: 40px;
+}
+.teemh h1{
+    font-size: 70px;
+    font-weight: 400;
+}
+.marginb{
+    /* padding-bottom: 80px; */
+}
+.fullteem{}
+.fullteem img{
+    margin-bottom: 17px;
+}
+.fullteem b{
+}
+.fullteem p{
+    width: 150px;
+    margin: 17px auto;
+}
+
+/* about */
+
+.about{
+    background-color: #c2d4ea;
+    padding: 120px 0;
+}
+.abouth{}
+.abouth h1{
+    font-size: 70px;
+    font-weight: 400;
+}
+.image img{}
+.aboutp{}
+.aboutp p{}
+.text2{
+    text-align: left;
+    margin-bottom: 20px;
+}
+.text{
+    text-align: left;
+}
+.aboutp2{
+    text-align: left;
+ 
+}
+.aboutp2 h3{}
+.aboutp2 p{}
+.aboutp2 span {
+    font-size: 22px;
+}
+
+/* contact */
+
+.contact{
+    background-color: #f5f5f5;
+    padding: 100px 0;
+}
+.contecth{
+
+}
+.contecth h1 {
+    font-size: 70px;
+    font-weight: 400;
+    margin-bottom: 95px;
+}
+.contact-form{}
+.contact-form p{
+    font-weight: bold;
+}
+.botton{
+    margin-top: 20px;
+    background: #5bc0de;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* footer */
+
+.footer {
+    background-color: #0062d3;
+    text-align: center;
+    color: #fff;
+    padding: 15px 0;
+}
